@@ -1,0 +1,3 @@
+[submodule "libs/js.draw"]
+	path = libs/js.draw
+	url = https://github.com/Vochsel/js.draw
