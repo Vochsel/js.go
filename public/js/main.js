@@ -2,8 +2,7 @@ var canvas;
 
 function Load()
 {
-	js.draw.canvas("game");
-	canvas = js.draw.refs.canvas;
+	canvas = js.draw.canvas("game");
 
 	Input.setup(canvas);
 
